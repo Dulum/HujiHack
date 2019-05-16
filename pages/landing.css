@@ -1,0 +1,32 @@
+body {
+  background-color: #aa072e;
+}
+
+@media (min-width: 1001px) {
+  .container{
+    width: 40%;
+  }
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  width: 20px;
+  padding: 10% 20% 10% 30%;
+  
+}
+h2 {
+  color: green  ;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+
+}
